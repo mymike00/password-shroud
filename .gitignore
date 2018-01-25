@@ -17,3 +17,4 @@ pkg/
 # Ubuntu SDK files
 
 *.goproject.user
+build/
